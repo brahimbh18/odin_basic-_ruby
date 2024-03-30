@@ -1,1 +1,1 @@
-# odin_basic-_ruby
+# odin_basic_ruby
